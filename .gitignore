@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Build artifacts
+*.log
+*.cache
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+*.swp

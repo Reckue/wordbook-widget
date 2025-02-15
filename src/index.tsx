@@ -1,1 +1,1 @@
-export { WordbookWidget } from "./WordbookWidget";
+export { LevelComponent } from "./features/level-selector";

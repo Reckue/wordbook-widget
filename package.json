@@ -1,6 +1,6 @@
 {
   "name": "reckue-wordbook-widget",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "A vocabulary widget library for React",
   "main": "dist/wordbook-widget.cjs.js",
   "module": "dist/wordbook-widget.es.js",
@@ -35,5 +35,8 @@
     "vite-plugin-dts": "^4.5.0"
   },
   "author": "hardelele",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reckue-wordbook-widget": "^1.0.2"
+  }
 }
